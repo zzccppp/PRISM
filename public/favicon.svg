@@ -1,3 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32">
-  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-size="80">💪</text>
-</svg> 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="mainGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <path d="M12,48 C12,48 28,48 36,32 C44,16 56,16 56,16" stroke="#e0e0e0" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <circle cx="12" cy="48" r="6" fill="#bdbdbd"/>
+
+  <circle cx="36" cy="32" r="8" fill="url(#mainGrad)"/>
+
+  <path d="M56,16 L52,8 L56,0 L60,8 L64,16 L56,16 Z" fill="#ff9a44" transform="rotate(15 58 12)"/>
+  <path d="M56,16 L58,24 L64,22 L58,18 L56,16 Z" fill="#ffc75f"/>
+</svg>
