@@ -1,26 +1,28 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**Harbin Institute of Technology**, PhD in Computer Science, *2024 - Present*
+- Research focus: Graph Based Machine Learning and Generative Models
+- Supervisor: Prof. Yang Liu
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
+**National University of Singapore**, MSc in Data Science and Machine Learning, *2023 - 2024*
+
+**Harbin Institute of Technology**, BSc in Information Security, *2019 - 2023*
 - Graduated with First Class Honours
 
-## Experience
+<!--## Experience
 
 **Example Role**
 Company/Institution
 *2023 - 2024*
 - Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+- Utilized skills to solve problems.-->
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
+- **Programming:** Python, C++, Rust, LaTeX
 - **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+- **Languages:** Chinese (Native), English (Fluent)
 
-## Awards & Honors
+<!--## Awards & Honors
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **First Prize in Example Competition** - Committee of Example (*2024*)-->

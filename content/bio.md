@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a PhD student in Computer Science, Harbin Institute of Technology, advised by Prof. Yang Liu.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+I completed my undergraduate studies at Harbin Institute of Technology, majoring in Information Security. I then obtained a Master’s degree from the National University of Singapore (NUS) in the Data Science and Machine Learning programme.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research interests lie at the intersection of Machine Learning, Graph Neural Networks, Generative Models, and their applications in various domains such as social networks, recommendation systems, and bioinformatics.
